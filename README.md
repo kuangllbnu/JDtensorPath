@@ -10,7 +10,7 @@ A tensor contraction path finder. Tensor network can be contracted in a specific
 ## Installation
 #### Prerequisite
 ```
-pip install tedq kahypar==1.1.6
+pip install kahypar==1.1.6
 ```
 #### Install
 ```
@@ -18,7 +18,7 @@ pip install -e .
 ```
 
 ## Getting started
-Use JDtensorPath together with [TeD-Q](https://github.com/JDEA-Quantum-Lab/TeD-Q).
+Use JDtensorPath together with [TeD-Q](https://github.com/JDEA-Quantum-Lab/TeD-Q), which will install tedq module.
 ### Simple example
 #### Define the circuit with TeD-Q framework
 ```
